@@ -69,7 +69,8 @@ My approach to Insurance cost prediction involved the following steps:
 ## 📊 Visualizations
 
 - Scatter plots of numerical features `smokers`,`bmi`,`charges`
-  ![image](https://github.com/user-attachments/assets/69515e70-4f6d-4b29-a99e-3c21c6023f82)
+  ![image](https://github.com/user-attachments/assets/33cd7e67-a2a9-49b6-9e5b-b7b7c5ba6d71)
+
   **Insights:**
   The above Graph shows:
   - For non-smokers, insurance charges increase slowly as BMI rises.
@@ -77,7 +78,8 @@ My approach to Insurance cost prediction involved the following steps:
   - It means overweight and smoking together greatly increase insurance costs.
     
 - Scatter plots of numerical features `smokers`,`age` vs `charges`
-  ![image](https://github.com/user-attachments/assets/4f807303-2ada-4f7d-8425-1ce21f544968)
+  ![image](https://github.com/user-attachments/assets/a67b4d43-bd2b-4be2-a1cc-1716c42ff325)
+
   **Insights:**
   The above Graph shows:
   - As people get older, their insurance charges usually go higher.
@@ -85,7 +87,8 @@ My approach to Insurance cost prediction involved the following steps:
   - Older people are more likely to have health problems, so they cost more to insure.
     
 - Box plot of  `smoker` vs `charges`
-  ![image](https://github.com/user-attachments/assets/57bd4d62-9c5d-4732-946c-869975ebb2d7)
+  ![image](https://github.com/user-attachments/assets/a4e60e27-99d7-47f9-83e9-7549d856d48b)
+
   **Insights:**
   The Above Graph shows:
   - Smokers pay much higher insurance charges than non-smokers.
